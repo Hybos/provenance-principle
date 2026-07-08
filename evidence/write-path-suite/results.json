@@ -1,0 +1,170 @@
+[
+  {
+    "regime": "recency",
+    "ratio": 1,
+    "arm": "A",
+    "acc_current": 0.48,
+    "acc_stale": 0.52
+  },
+  {
+    "regime": "recency",
+    "ratio": 1,
+    "arm": "B",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 1,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 4,
+    "arm": "A",
+    "acc_current": 0.188,
+    "acc_stale": 0.8119999999999999
+  },
+  {
+    "regime": "recency",
+    "ratio": 4,
+    "arm": "B",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 4,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 8,
+    "arm": "A",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "recency",
+    "ratio": 8,
+    "arm": "B",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 8,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 16,
+    "arm": "A",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "recency",
+    "ratio": 16,
+    "arm": "B",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "recency",
+    "ratio": 16,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 1,
+    "arm": "A",
+    "acc_current": 0.48,
+    "acc_stale": 0.52
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 1,
+    "arm": "B",
+    "acc_current": 0.48,
+    "acc_stale": 0.52
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 1,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 4,
+    "arm": "A",
+    "acc_current": 0.188,
+    "acc_stale": 0.8119999999999999
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 4,
+    "arm": "B",
+    "acc_current": 0.188,
+    "acc_stale": 0.8119999999999999
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 4,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 8,
+    "arm": "A",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 8,
+    "arm": "B",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 8,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 16,
+    "arm": "A",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 16,
+    "arm": "B",
+    "acc_current": 0.18,
+    "acc_stale": 0.82
+  },
+  {
+    "regime": "no-recency",
+    "ratio": 16,
+    "arm": "C",
+    "acc_current": 1.0,
+    "acc_stale": 0.0
+  }
+]
